@@ -19,6 +19,6 @@
         echo "Mensaje Encriptado: " . $mensajeencriptado . "<br>";
     }
     ?>
-    <br><a href="index.php">Volver a la página principal</a>
+    <br><a href="index.html">Volver a la página principal</a>
 </body>
 </html>
